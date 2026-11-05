@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+data/
+*.iso
+*.partial
+client_secret.json
+google_credentials.json
+.env
+gofile-account.json
+gofile-result.json
